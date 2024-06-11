@@ -36,7 +36,12 @@ body {
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
+    text-decoration: none;
     display: block;
+    .container__imagem {
+        margin: 1em 0 2em 0;
+    }
+    
 }
 
 .botao_secundario {
