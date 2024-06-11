@@ -38,10 +38,7 @@ body {
     color: var(--branco-principal);
     text-decoration: none;
     display: block;
-    .container__imagem {
-        margin: 1em 0 2em 0;
-    }
-    
+    margin-bottom: 1em;
 }
 
 .botao_secundario {
