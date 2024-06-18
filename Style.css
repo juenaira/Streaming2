@@ -147,4 +147,9 @@ body {
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-fundo);
     }
+
+    .secundario__botao {
+        display: inline-block;
+        margin-top: 1em;
+    }
     
